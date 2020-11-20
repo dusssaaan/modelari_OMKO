@@ -1,1 +1,0 @@
-# modelari_OMKO
