@@ -3,10 +3,13 @@
 
 
 
-[Biogénne emisie](biogenne_emisie/BIOGENNE_EMISIE.html)
 
+[Mapa1](orko_tif.html)
 
 ```markdown
-[Mapa1](orko_shp.html)
-[Mapa2](orko_tif.html)  
+Mapa obsahuje vsrtvy:
+- Riziková oblasť - lokalizácia oblastí s najvyššími koncentráciami PM podľa troch metodík
+- mapa emisií z lokánych kúrenísk po krajoch
+- mapa staníc NMSKO
+- mapa hlavných komínov z NEIS (rozdelená na výduchy a fugitívne emisie) 
 ```
