@@ -4,7 +4,7 @@
 
 
 
-[Mapa1](orko_tif.html)
+[Mapa 1](orko_tif.html)
 
 ```markdown
 Mapa obsahuje vsrtvy:
