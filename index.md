@@ -1,5 +1,5 @@
 
-# Podklady pre Programy na zlepsenie kvality ovzdusia 
+# Podklady pre Programy na zlepšenie kvality ovzdušia 
 
 
 
